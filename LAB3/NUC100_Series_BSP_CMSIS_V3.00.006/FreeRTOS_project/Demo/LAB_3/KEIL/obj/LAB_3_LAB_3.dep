@@ -1,0 +1,426 @@
+Dependencies for Project 'LAB_3', Target 'LAB_3': (DO NOT MODIFY !)
+F (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Source\system_NUC100Series.c)(0x6460F2FE)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc -I ..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include -I ..\..\..\..\Library\NUC1xx-LB_002\Include -I ..\..\..\..\Library\NuMakerLib\Include -I ..\ -I ..\..\..\Source\include -I ..\..\LAB_3 -I ..\..\..\Source\portable\RVDS\ARM_CM0-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DDEBUG_ENABLE_SEMIHOST-o .\obj\system_nuc100series.o --omf_browse .\obj\system_nuc100series.crf --depend .\obj\system_nuc100series.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x6460F2FD)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x6460F2FE)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\system_NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\crc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\rtc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2s.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\usbd.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pdma.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\ps2.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\acmp.h)(0x6460F2FE)
+F (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Source\ARM\startup_NUC100Series.s)(0x6460F2FE)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --16 --apcs=interwork --pd "__MICROLIB SETA 1"-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 524" --pd "DEBUG_ENABLE_SEMIHOST SETA 1"--list .\lst\startup_nuc100series.lst --xref -o .\obj\startup_nuc100series.o --depend .\obj\startup_nuc100series.d)
+F (..\..\..\..\Library\StdDriver\src\retarget.c)(0x6460F2FE)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc -I ..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include -I ..\..\..\..\Library\NUC1xx-LB_002\Include -I ..\..\..\..\Library\NuMakerLib\Include -I ..\ -I ..\..\..\Source\include -I ..\..\LAB_3 -I ..\..\..\Source\portable\RVDS\ARM_CM0-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DDEBUG_ENABLE_SEMIHOST-o .\obj\retarget.o --omf_browse .\obj\retarget.crf --depend .\obj\retarget.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588B8344)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x6460F2FD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x6460F2FE)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\system_NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\crc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\rtc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2s.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\usbd.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pdma.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\ps2.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\acmp.h)(0x6460F2FE)
+F (..\..\..\..\Library\StdDriver\src\gpio.c)(0x6460F2FE)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc -I ..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include -I ..\..\..\..\Library\NUC1xx-LB_002\Include -I ..\..\..\..\Library\NuMakerLib\Include -I ..\ -I ..\..\..\Source\include -I ..\..\LAB_3 -I ..\..\..\Source\portable\RVDS\ARM_CM0-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DDEBUG_ENABLE_SEMIHOST-o .\obj\gpio.o --omf_browse .\obj\gpio.crf --depend .\obj\gpio.d)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x6460F2FD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x6460F2FE)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\system_NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\crc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\rtc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2s.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\usbd.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pdma.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\ps2.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\acmp.h)(0x6460F2FE)
+F (..\..\..\..\Library\StdDriver\src\clk.c)(0x6460F2FE)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc -I ..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include -I ..\..\..\..\Library\NUC1xx-LB_002\Include -I ..\..\..\..\Library\NuMakerLib\Include -I ..\ -I ..\..\..\Source\include -I ..\..\LAB_3 -I ..\..\..\Source\portable\RVDS\ARM_CM0-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DDEBUG_ENABLE_SEMIHOST-o .\obj\clk.o --omf_browse .\obj\clk.crf --depend .\obj\clk.d)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x6460F2FD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x6460F2FE)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\system_NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\crc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\rtc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2s.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\usbd.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pdma.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\ps2.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\acmp.h)(0x6460F2FE)
+F (..\..\..\..\Library\StdDriver\src\sys.c)(0x6460F2FE)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc -I ..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include -I ..\..\..\..\Library\NUC1xx-LB_002\Include -I ..\..\..\..\Library\NuMakerLib\Include -I ..\ -I ..\..\..\Source\include -I ..\..\LAB_3 -I ..\..\..\Source\portable\RVDS\ARM_CM0-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DDEBUG_ENABLE_SEMIHOST-o .\obj\sys.o --omf_browse .\obj\sys.crf --depend .\obj\sys.d)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x6460F2FD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x6460F2FE)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\system_NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\crc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\rtc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2s.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\usbd.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pdma.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\ps2.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\acmp.h)(0x6460F2FE)
+F (..\..\..\..\Library\StdDriver\src\uart.c)(0x6460F2FE)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc -I ..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include -I ..\..\..\..\Library\NUC1xx-LB_002\Include -I ..\..\..\..\Library\NuMakerLib\Include -I ..\ -I ..\..\..\Source\include -I ..\..\LAB_3 -I ..\..\..\Source\portable\RVDS\ARM_CM0-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DDEBUG_ENABLE_SEMIHOST-o .\obj\uart.o --omf_browse .\obj\uart.crf --depend .\obj\uart.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588B8344)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x6460F2FD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x6460F2FE)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\system_NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\crc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\rtc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2s.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\usbd.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pdma.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\ps2.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\acmp.h)(0x6460F2FE)
+F (..\Scankey.c)(0x5CE50CE4)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc -I ..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include -I ..\..\..\..\Library\NUC1xx-LB_002\Include -I ..\..\..\..\Library\NuMakerLib\Include -I ..\ -I ..\..\..\Source\include -I ..\..\LAB_3 -I ..\..\..\Source\portable\RVDS\ARM_CM0-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DDEBUG_ENABLE_SEMIHOST-o .\obj\scankey.o --omf_browse .\obj\scankey.crf --depend .\obj\scankey.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588B8344)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x6460F2FD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x6460F2FE)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\system_NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\crc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\rtc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2s.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\usbd.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pdma.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\ps2.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\acmp.h)(0x6460F2FE)
+I (..\Scankey.h)(0x5CE50CEF)
+F (..\partA.c)(0x647621E7)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc -I ..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include -I ..\..\..\..\Library\NUC1xx-LB_002\Include -I ..\..\..\..\Library\NuMakerLib\Include -I ..\ -I ..\..\..\Source\include -I ..\..\LAB_3 -I ..\..\..\Source\portable\RVDS\ARM_CM0-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DDEBUG_ENABLE_SEMIHOST-o .\obj\parta.o --omf_browse .\obj\parta.crf --depend .\obj\parta.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588B8344)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x588B8344)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x6460F2FD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x6460F2FE)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\system_NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\crc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\rtc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2s.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\usbd.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pdma.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\ps2.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\acmp.h)(0x6460F2FE)
+I (..\MCU_init.h)(0x5691394E)
+I (..\Scankey.h)(0x5CE50CEF)
+I (..\..\..\Source\include\FreeRTOS.h)(0x4C0C6628)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x588B8344)
+I (..\..\..\Source\include\projdefs.h)(0x4BF0FD30)
+I (..\FreeRTOSConfig.h)(0x5B17E5C0)
+I (..\..\..\Source\include\portable.h)(0x4C2586B0)
+I (..\..\..\Source\portable\RVDS\ARM_CM0\portmacro.h)(0x4C0F3A2C)
+I (..\..\..\Source\include\mpu_wrappers.h)(0x4BF0FD30)
+I (..\..\..\Source\include\task.h)(0x4BF0FD32)
+I (..\..\..\Source\include\list.h)(0x4BF0FD30)
+I (..\..\..\Source\include\queue.h)(0x4BF0FD30)
+I (..\..\..\Source\include\semphr.h)(0x4BF0FD32)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x588B8344)
+F (..\..\..\Source\list.c)(0x4BF0FD2E)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc -I ..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include -I ..\..\..\..\Library\NUC1xx-LB_002\Include -I ..\..\..\..\Library\NuMakerLib\Include -I ..\ -I ..\..\..\Source\include -I ..\..\LAB_3 -I ..\..\..\Source\portable\RVDS\ARM_CM0-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DDEBUG_ENABLE_SEMIHOST-o .\obj\list.o --omf_browse .\obj\list.crf --depend .\obj\list.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x588B8344)
+I (..\..\..\Source\include\FreeRTOS.h)(0x4C0C6628)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x588B8344)
+I (..\..\..\Source\include\projdefs.h)(0x4BF0FD30)
+I (..\FreeRTOSConfig.h)(0x5B17E5C0)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x6460F2FD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x6460F2FE)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\system_NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\crc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\rtc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2s.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\usbd.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pdma.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\ps2.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\acmp.h)(0x6460F2FE)
+I (..\..\..\Source\include\portable.h)(0x4C2586B0)
+I (..\..\..\Source\portable\RVDS\ARM_CM0\portmacro.h)(0x4C0F3A2C)
+I (..\..\..\Source\include\mpu_wrappers.h)(0x4BF0FD30)
+I (..\..\..\Source\include\list.h)(0x4BF0FD30)
+F (..\..\..\Source\queue.c)(0x4BF0FD2E)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc -I ..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include -I ..\..\..\..\Library\NUC1xx-LB_002\Include -I ..\..\..\..\Library\NuMakerLib\Include -I ..\ -I ..\..\..\Source\include -I ..\..\LAB_3 -I ..\..\..\Source\portable\RVDS\ARM_CM0-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DDEBUG_ENABLE_SEMIHOST-o .\obj\queue.o --omf_browse .\obj\queue.crf --depend .\obj\queue.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x588B8344)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x588B8344)
+I (..\..\..\Source\include\FreeRTOS.h)(0x4C0C6628)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x588B8344)
+I (..\..\..\Source\include\projdefs.h)(0x4BF0FD30)
+I (..\FreeRTOSConfig.h)(0x5B17E5C0)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x6460F2FD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x6460F2FE)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\system_NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\crc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\rtc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2s.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\usbd.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pdma.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\ps2.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\acmp.h)(0x6460F2FE)
+I (..\..\..\Source\include\portable.h)(0x4C2586B0)
+I (..\..\..\Source\portable\RVDS\ARM_CM0\portmacro.h)(0x4C0F3A2C)
+I (..\..\..\Source\include\mpu_wrappers.h)(0x4BF0FD30)
+I (..\..\..\Source\include\task.h)(0x4BF0FD32)
+I (..\..\..\Source\include\list.h)(0x4BF0FD30)
+I (..\..\..\Source\include\croutine.h)(0x4BF0FD30)
+F (..\..\..\Source\tasks.c)(0x4C19CDEE)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc -I ..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include -I ..\..\..\..\Library\NUC1xx-LB_002\Include -I ..\..\..\..\Library\NuMakerLib\Include -I ..\ -I ..\..\..\Source\include -I ..\..\LAB_3 -I ..\..\..\Source\portable\RVDS\ARM_CM0-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DDEBUG_ENABLE_SEMIHOST-o .\obj\tasks.o --omf_browse .\obj\tasks.crf --depend .\obj\tasks.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588B8344)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x588B8344)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x588B8344)
+I (..\..\..\Source\include\FreeRTOS.h)(0x4C0C6628)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x588B8344)
+I (..\..\..\Source\include\projdefs.h)(0x4BF0FD30)
+I (..\FreeRTOSConfig.h)(0x5B17E5C0)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x6460F2FD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x6460F2FE)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\system_NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\crc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\rtc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2s.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\usbd.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pdma.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\ps2.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\acmp.h)(0x6460F2FE)
+I (..\..\..\Source\include\portable.h)(0x4C2586B0)
+I (..\..\..\Source\portable\RVDS\ARM_CM0\portmacro.h)(0x4C0F3A2C)
+I (..\..\..\Source\include\mpu_wrappers.h)(0x4BF0FD30)
+I (..\..\..\Source\include\task.h)(0x4BF0FD32)
+I (..\..\..\Source\include\list.h)(0x4BF0FD30)
+I (..\..\..\Source\include\StackMacros.h)(0x4BF0FD32)
+F (..\..\..\Source\portable\RVDS\ARM_CM0\port.c)(0x5B178658)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc -I ..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include -I ..\..\..\..\Library\NUC1xx-LB_002\Include -I ..\..\..\..\Library\NuMakerLib\Include -I ..\ -I ..\..\..\Source\include -I ..\..\LAB_3 -I ..\..\..\Source\portable\RVDS\ARM_CM0-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DDEBUG_ENABLE_SEMIHOST-o .\obj\port.o --omf_browse .\obj\port.crf --depend .\obj\port.d)
+I (..\..\..\Source\include\FreeRTOS.h)(0x4C0C6628)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x588B8344)
+I (..\..\..\Source\include\projdefs.h)(0x4BF0FD30)
+I (..\FreeRTOSConfig.h)(0x5B17E5C0)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x6460F2FD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x6460F2FE)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\system_NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\crc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\rtc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2s.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\usbd.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pdma.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\ps2.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\acmp.h)(0x6460F2FE)
+I (..\..\..\Source\include\portable.h)(0x4C2586B0)
+I (..\..\..\Source\portable\RVDS\ARM_CM0\portmacro.h)(0x4C0F3A2C)
+I (..\..\..\Source\include\mpu_wrappers.h)(0x4BF0FD30)
+I (..\..\..\Source\include\task.h)(0x4BF0FD32)
+I (..\..\..\Source\include\list.h)(0x4BF0FD30)
+F (..\..\..\Source\portable\MemMang\heap_2.c)(0x4BF0FD2E)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc -I ..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include -I ..\..\..\..\Library\NUC1xx-LB_002\Include -I ..\..\..\..\Library\NuMakerLib\Include -I ..\ -I ..\..\..\Source\include -I ..\..\LAB_3 -I ..\..\..\Source\portable\RVDS\ARM_CM0-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DDEBUG_ENABLE_SEMIHOST-o .\obj\heap_2.o --omf_browse .\obj\heap_2.crf --depend .\obj\heap_2.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x588B8344)
+I (..\..\..\Source\include\FreeRTOS.h)(0x4C0C6628)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x588B8344)
+I (..\..\..\Source\include\projdefs.h)(0x4BF0FD30)
+I (..\FreeRTOSConfig.h)(0x5B17E5C0)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x6460F2FD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x6460F2FE)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x6460F2FE)
+I (..\..\..\..\Library\Device\Nuvoton\NUC100Series\Include\system_NUC100Series.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\crc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\rtc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\i2s.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\usbd.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\pdma.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\sc.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\ps2.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x6460F2FE)
+I (..\..\..\..\Library\StdDriver\inc\acmp.h)(0x6460F2FE)
+I (..\..\..\Source\include\portable.h)(0x4C2586B0)
+I (..\..\..\Source\portable\RVDS\ARM_CM0\portmacro.h)(0x4C0F3A2C)
+I (..\..\..\Source\include\mpu_wrappers.h)(0x4BF0FD30)
+I (..\..\..\Source\include\task.h)(0x4BF0FD32)
+I (..\..\..\Source\include\list.h)(0x4BF0FD30)
