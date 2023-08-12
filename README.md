@@ -1,3 +1,3 @@
 # CCU-Oeration-System-LAB
 
-This is a lab assignment for the operating system course at National Chung Cheng University. 
+There are lab's assignments for the operating system course at National Chung Cheng University. 
