@@ -9,3 +9,4 @@ There are lab's assignments for the operating system course at National Chung Ch
 
 
 2.NUC140      
+![NUC140](https://github.com/wengjiahuang0529/CCU-Oeration-System-LAB/blob/8d136fdfd919d4b20a434c203b51f3d856e42000/picture/NUC-140.png)
